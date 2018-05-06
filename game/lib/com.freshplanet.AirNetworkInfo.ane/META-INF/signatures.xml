@@ -1,0 +1,37 @@
+<signatures>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="PackageSignature">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+      <SignatureMethod Algorithm="http://www.w3.org/TR/xmldsig-core#rsa-sha1"/>
+      <Reference URI="#PackageContents">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+        <DigestValue>tjX8/f6RC3kKi06MfXfCZOxRy7YcsomlA5kThxtVpg8=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue Id="PackageSignatureValue">ezCs5mqMBN4IFEy8FEIHQe+KKZg4D5DUS9tbrTWeu58wto8lhC4G72daUL5CKhsfUWXIhmOoELmj
+x4EKEUFHx8Ujn3MFL3F2CxU02l82XjU4dIuwXamogvtDr8Wc4rdgOyGk/7UwWZK5vrF+vqlDh0uo
+iOgN40j4hRYZpP2yKPU=</SignatureValue>
+    <KeyInfo>
+      <X509Data>
+        <X509Certificate>MIIB2jCCAUKgAwIBAgIbLTdlZjdkNGM0OjEzYTUwMjVmZWE5Oi04MDAwMA0GCSqGSIb3DQEBBQUA
+MBkxFzAVBgNVBAMTDk9zUGVuZXRyYXNHYW1lMB4XDTEyMTAxMDE0MDYzOFoXDTM3MTAxMTE0MDYz
+OFowGTEXMBUGA1UEAxMOT3NQZW5ldHJhc0dhbWUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGB
+AL4kH7tp9G7V3adlx48yAIxWsN/3rwmr+jGYGmaSPrmFcdT0/AxN1n+pl+ZIJhPo+s50Pv1eaRBR
+lG+6wMnYQcGPiXpBFWF1/ypomB8mloZtJvH8GQug1ShNSry0ScsB7RSgoa12WZHibdFDMSf+5Kc8
+MX1WaPpuRChhKocpCmwzAgMBAAGjFzAVMBMGA1UdJQQMMAoGCCsGAQUFBwMDMA0GCSqGSIb3DQEB
+BQUAA4IAgQBuIZe/7N+2ks0H2hWJadrJgMMMNbOxO3dmxcIafJeFX/R1D0MzDwZ+iOSoyM+MOWUO
+dDfF8b0zXTlvOWCw8519dmeICMgdviqqizBN/G8YLmJzbRdQWIOsTdP6Z91N9syXrIC7V2x4SvMh
+qvd01Xx0TbjQgz39PcwTxg7GsqzSAw==</X509Certificate>
+      </X509Data>
+    </KeyInfo>
+    <Object>
+      <Manifest Id="PackageContents">
+        <Reference URI="mimetype"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod><DigestValue>QfjPqwYNSozTaKi3Ar1Veog4uaFk5DPieQA0v9uRJdY=</DigestValue></Reference><Reference URI="META-INF/ANE/extension.xml"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod><DigestValue>84IcmCF28wlJ9BAN03oYCFRzRljTFWlwvzfZs0xGvdA=</DigestValue></Reference><Reference URI="catalog.xml"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod><DigestValue>Dihku0QSJpQvE3R3TbsVvBuvY/CUiWde/8/0SWKXpTc=</DigestValue></Reference><Reference URI="library.swf"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod><DigestValue>4Pfrfr36NWotJErzXjDtL6m2lze6BKBqhLsZCfPAELM=</DigestValue></Reference><Reference URI="META-INF/ANE/Android-ARM/library.swf"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod><DigestValue>4Pfrfr36NWotJErzXjDtL6m2lze6BKBqhLsZCfPAELM=</DigestValue></Reference><Reference URI="META-INF/ANE/default/library.swf"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod><DigestValue>4Pfrfr36NWotJErzXjDtL6m2lze6BKBqhLsZCfPAELM=</DigestValue></Reference><Reference URI="META-INF/ANE/iPhone-ARM/libNetworkInfoiOSLibrary.a"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod><DigestValue>FXPp+5s49tXOtduwg2hCB6S254qQ1weN8ApdC7tNuk4=</DigestValue></Reference><Reference URI="META-INF/ANE/iPhone-ARM/library.swf"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod><DigestValue>4Pfrfr36NWotJErzXjDtL6m2lze6BKBqhLsZCfPAELM=</DigestValue></Reference>
+      </Manifest>
+    </Object>
+    
+  </Signature>
+</signatures>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="com/freshplanet/nativeExtensions/AirNetworkInfo" mod="1339209518000" signatureChecksum="2766441268" >
+        <def id="com.freshplanet.nativeExtensions:AirNetworkInfo" /> 
+        <dep id="com.freshplanet.nativeExtensions:NativeNetworkInterface" type="e" /> 
+        <dep id="trace" type="e" /> 
+        <dep id="__AS3__.vec:Vector" type="e" /> 
+        <dep id="flash.system:Capabilities" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="flash.net:NetworkInfo" type="e" /> 
+        <dep id="com.freshplanet.nativeExtensions:NativeNetworkInterface" type="s" /> 
+        <dep id="__AS3__.vec:Vector" type="s" /> 
+        <dep id="flash.net:NetworkInterface" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="com/freshplanet/nativeExtensions/NativeNetworkInterface" mod="1335552693000" signatureChecksum="2075486310" >
+        <def id="com.freshplanet.nativeExtensions:NativeNetworkInterface" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="_5e01b1f27d8bd2218a6948f70ea06095e309aecce1a4cd7dee3b741d763b14f4_flash_display_Sprite" mod="1339209520104" signatureChecksum="4159863613" >
+        <def id="_5e01b1f27d8bd2218a6948f70ea06095e309aecce1a4cd7dee3b741d763b14f4_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="e0f7eb7ebdfa356a2d244af35e30ed2fa9b69737ba04a06a84bb1909f3c010b3"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>

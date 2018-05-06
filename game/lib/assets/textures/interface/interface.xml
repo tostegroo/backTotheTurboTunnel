@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:0e2f0e49c52cb244bae51ff547e2452a$ -->
+<TextureAtlas imagePath="interface.png">
+    <SubTexture name="bt_config" x="654" y="298" width="239" height="155"/>
+    <SubTexture name="bt_exit_desk" x="887" y="933" width="49" height="57"/>
+    <SubTexture name="bt_exit_desk_arrow" x="611" y="421" width="34" height="31"/>
+    <SubTexture name="bt_exit_desk_text" x="586" y="990" width="47" height="20"/>
+    <SubTexture name="bt_info" x="611" y="455" width="239" height="154"/>
+    <SubTexture name="bt_p_back" x="586" y="696" width="171" height="84"/>
+    <SubTexture name="bt_p_back_over" x="586" y="782" width="168" height="39"/>
+    <SubTexture name="bt_p_continue" x="654" y="171" width="346" height="83"/>
+    <SubTexture name="bt_p_exit" x="654" y="86" width="346" height="83"/>
+    <SubTexture name="bt_play" x="404" y="655" width="180" height="171"/>
+    <SubTexture name="bt_play_over" x="759" y="696" width="180" height="164"/>
+    <SubTexture name="bt_ranking" x="852" y="463" width="154" height="144"/>
+    <SubTexture name="bt_ranking_over" x="675" y="862" width="157" height="140"/>
+    <SubTexture name="bt_s_exit_over" x="654" y="256" width="342" height="40"/>
+    <SubTexture name="gameover_title" x="2" y="568" width="569" height="85"/>
+    <SubTexture name="getready_title" x="2" y="907" width="523" height="89"/>
+    <SubTexture name="logo" x="2" y="2" width="650" height="302"/>
+    <SubTexture name="logo_arrow_p1" x="895" y="298" width="95" height="163"/>
+    <SubTexture name="logo_arrow_p2" x="941" y="696" width="50" height="74"/>
+    <SubTexture name="logo_arrow_p3" x="611" y="306" width="41" height="73"/>
+    <SubTexture name="logo_arrow_p4" x="941" y="772" width="49" height="70"/>
+    <SubTexture name="logo_arrow_p5" x="834" y="933" width="51" height="69"/>
+    <SubTexture name="logo_arrow_p6" x="834" y="862" width="71" height="69"/>
+    <SubTexture name="logo_arrow_p7" x="527" y="900" width="146" height="88"/>
+    <SubTexture name="logo_back" x="404" y="828" width="226" height="70"/>
+    <SubTexture name="logo_back_p1" x="907" y="862" width="55" height="60"/>
+    <SubTexture name="logo_back_p2" x="938" y="983" width="32" height="39"/>
+    <SubTexture name="logo_back_p3" x="992" y="298" width="30" height="39"/>
+    <SubTexture name="logo_back_p4" x="573" y="568" width="28" height="38"/>
+    <SubTexture name="logo_back_p5" x="998" y="256" width="24" height="38"/>
+    <SubTexture name="logo_bg" x="2" y="655" width="400" height="250"/>
+    <SubTexture name="logo_name" x="2" y="306" width="607" height="260"/>
+    <SubTexture name="logo_the" x="938" y="924" width="52" height="57"/>
+    <SubTexture name="logo_to" x="972" y="983" width="50" height="34"/>
+    <SubTexture name="music_no" x="2" y="1007" width="118" height="10"/>
+    <SubTexture name="music_text" x="632" y="823" width="94" height="27"/>
+    <SubTexture name="options_title" x="586" y="611" width="413" height="83"/>
+    <SubTexture name="pause_title" x="654" y="2" width="357" height="82"/>
+    <SubTexture name="sfx_no" x="122" y="1007" width="73" height="9"/>
+    <SubTexture name="sfx_text" x="527" y="990" width="57" height="28"/>
+    <SubTexture name="slider_bg" x="2" y="998" width="218" height="7"/>
+    <SubTexture name="slider_bt" x="632" y="852" width="38" height="38"/>
+    <SubTexture name="slider_bt_shadow" x="611" y="381" width="38" height="38"/>
+</TextureAtlas>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:e56879f80d55266c9e599431794114e0$ -->
+<TextureAtlas imagePath="interface_hud.png">
+    <SubTexture name="bt_pause" x="608" y="319" width="142" height="133"/>
+    <SubTexture name="bt_pause_over" x="706" y="56" width="137" height="36"/>
+    <SubTexture name="bt_s_continue" x="497" y="171" width="456" height="104"/>
+    <SubTexture name="bt_s_continue_ov" x="2" y="283" width="456" height="38"/>
+    <SubTexture name="bt_s_continue_over" x="2" y="323" width="419" height="26"/>
+    <SubTexture name="bt_s_exit_over" x="497" y="277" width="342" height="40"/>
+    <SubTexture name="letters_arrow" x="706" y="117" width="44" height="32" frameX="0" frameY="-1" frameWidth="46" frameHeight="34"/>
+    <SubTexture name="medal" x="841" y="277" width="167" height="168"/>
+    <SubTexture name="score_box" x="2" y="2" width="493" height="279"/>
+    <SubTexture name="shiny" x="955" y="133" width="51" height="133"/>
+    <SubTexture name="to_control_key" x="497" y="2" width="207" height="167"/>
+    <SubTexture name="to_control_pad" x="460" y="319" width="146" height="132"/>
+    <SubTexture name="to_control_text" x="706" y="94" width="160" height="21"/>
+    <SubTexture name="to_control_touch" x="885" y="2" width="122" height="106"/>
+    <SubTexture name="to_jump_key" x="706" y="2" width="177" height="52"/>
+    <SubTexture name="to_jump_pad" x="75" y="351" width="71" height="71"/>
+    <SubTexture name="to_jump_pad_b" x="2" y="351" width="71" height="71"/>
+    <SubTexture name="to_jump_text" x="868" y="110" width="108" height="21"/>
+    <SubTexture name="to_jump_touch" x="752" y="319" width="75" height="125"/>
+</TextureAtlas>

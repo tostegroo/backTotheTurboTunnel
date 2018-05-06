@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="http://ns.adobe.com/air/application/16.0">
+  <id>com.bogdog.turbotunnel</id>
+  <versionNumber>1.0.3</versionNumber>
+  <supportedProfiles>extendedDesktop</supportedProfiles>
+  <filename>TurboTunnel</filename>
+  <name>Turbo Tunnel</name>
+  <initialWindow>
+    <title>Turbo Tunnel</title>
+    <content>turbotunnel.swf</content>
+    <visible>true</visible>
+    <autoOrients>true</autoOrients>
+    <renderMode>direct</renderMode>
+    <systemChrome>standard</systemChrome>
+    <aspectRatio>landscape</aspectRatio>
+    <fullScreen>true</fullScreen>
+    <resizable>true</resizable>
+    <minimizable>true</minimizable>
+    <maximizable>true</maximizable>
+  </initialWindow>
+  <icon>
+    <image16x16>icons/icon_16.png</image16x16>
+    <image48x48>icons/icon_48.png</image48x48>
+    <image57x57>icons/icon_57.png</image57x57>
+    <image72x72>icons/icon_72.png</image72x72>
+    <image114x114>icons/icon_114.png</image114x114>
+    <image512x512>icons/icon_512.png</image512x512>
+    <image1024x1024>icons/icon_1024.png</image1024x1024>
+  </icon>
+  <copyright>2014 Bogdog</copyright>
+  <supportedLanguages>en</supportedLanguages>
+  <installFolder>turbotunnel</installFolder>
+  <extensions>
+    <extensionID>pl.mateuszmackowiak.nativeANE.NativeAlert</extensionID>
+    <extensionID>com.stackandheap.ane.joystick.JoystickManager</extensionID>
+  </extensions>
+</application>

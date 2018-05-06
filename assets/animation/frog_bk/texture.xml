@@ -1,0 +1,73 @@
+<TextureAtlas name="frog" imagePath="texture.png">
+ <SubTexture name="elementos/cova_aberta_" x="0" y="149" width="227" height="75"/>
+ <SubTexture name="elementos/Tween 1" x="411" y="437" width="95" height="39"/>
+ <SubTexture name="elementos/barreira_mc" x="451" y="0" width="183" height="156"/>
+ <SubTexture name="elementos/zoio3" x="995" y="259" width="22" height="23"/>
+ <SubTexture name="elementos/zoio2" x="814" y="267" width="21" height="21"/>
+ <SubTexture name="elementos/zoio1" x="995" y="235" width="22" height="23"/>
+ <SubTexture name="fumaca/cinzas10" x="566" y="286" width="47" height="51"/>
+ <SubTexture name="fumaca/cinzas9" x="359" y="336" width="50" height="48"/>
+ <SubTexture name="fumaca/cinzas8" x="300" y="389" width="53" height="49"/>
+ <SubTexture name="fumaca/cinzas7" x="300" y="339" width="56" height="48"/>
+ <SubTexture name="fumaca/cinzas6" x="708" y="372" width="55" height="49"/>
+ <SubTexture name="fumaca/cinzas5" x="765" y="387" width="55" height="48"/>
+ <SubTexture name="fumaca/cinzas4" x="926" y="267" width="65" height="46"/>
+ <SubTexture name="fumaca/cinzas3" x="544" y="339" width="59" height="47"/>
+ <SubTexture name="fumaca/cinzas2" x="103" y="434" width="58" height="44"/>
+ <SubTexture name="fumaca/cinzas1" x="764" y="437" width="56" height="45"/>
+ <SubTexture name="elementos/cova_fg" x="605" y="339" width="176" height="31"/>
+ <SubTexture name="elementos/Tween 7" x="615" y="267" width="198" height="71"/>
+ <SubTexture name="elementos/Tween 6" x="0" y="301" width="198" height="71"/>
+ <SubTexture name="elementos/Tween 5" x="0" y="0" width="450" height="63"/>
+ <SubTexture name="elementos/Tween 2" x="543" y="499" width="238" height="48"/>
+ <SubTexture name="elementos/sombra" x="510" y="388" width="92" height="33"/>
+ <SubTexture name="sangue/sangue_smoth2_com_mais_gotas" x="241" y="64" width="121" height="153"/>
+ <SubTexture name="sangue/gotas_avulsas2_mais_gotas" x="995" y="137" width="26" height="96"/>
+ <SubTexture name="sangue/gotas_avulsas" x="851" y="194" width="12" height="65"/>
+ <SubTexture name="sangue/sangue_smoth" x="440" y="158" width="124" height="132"/>
+ <SubTexture name="sangue/s1_otim" x="364" y="64" width="74" height="128"/>
+ <SubTexture name="sangue/s2_otim" x="836" y="267" width="88" height="131"/>
+ <SubTexture name="sangue/s3_otim" x="865" y="137" width="128" height="128"/>
+ <SubTexture name="sangue/s4_otim" x="229" y="219" width="128" height="118"/>
+ <SubTexture name="sangue/s5_otim" x="875" y="0" width="145" height="135"/>
+ <SubTexture name="sangue/s6_otim" x="397" y="479" width="144" height="22"/>
+ <SubTexture name="001_reduzidos_sizeOK/body_jump" x="926" y="315" width="94" height="94"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_canela2_CROPED_DECEPADO copy" x="582" y="440" width="95" height="33"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_jetski_CROPED_CARBON" x="0" y="373" width="101" height="66"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_jetski_CROPED" x="605" y="372" width="101" height="66"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_corpo2_CROPED" x="411" y="363" width="97" height="72"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_corpo1_CROPED_DECOLA" x="413" y="292" width="130" height="70"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_corpo1_CROPED_CARBON" x="191" y="418" width="95" height="67"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_corpo1_CROPED_OSSO" x="103" y="373" width="86" height="59"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_corpo1_CROPED_DECEPADO" x="199" y="339" width="99" height="77"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_corpo1_CROPED_OLHOSFECHADOS" x="822" y="400" width="95" height="72"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_corpo1_CROPED" x="919" y="411" width="95" height="71"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_antebraco_CROPED_CARBON" x="0" y="477" width="57" height="21"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_antebraco_CROPED_OSSO" x="288" y="440" width="65" height="24"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_antebraco_CROPED _DECEPADO" x="0" y="441" width="94" height="35"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_antebraco_CROPED" x="288" y="466" width="58" height="23"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_biceps_CROPED_CARBON" x="636" y="475" width="40" height="22"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_biceps_CROPED_OSSO" x="59" y="477" width="38" height="15"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_biceps_CROPED_DECEPADO" x="358" y="386" width="46" height="25"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_biceps_CROPED" x="355" y="465" width="40" height="22"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_canela_CROPED_CARBON" x="573" y="475" width="61" height="19"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_canela_CROPED_OSSO" x="679" y="455" width="66" height="28"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_canela_CROPED_DECEPADO" x="822" y="474" width="95" height="32"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_canela_CROPED_ABERTA" x="359" y="243" width="79" height="33"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_canela_CROPED" x="508" y="457" width="63" height="20"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_coxa_CROPED_CARBON" x="355" y="413" width="54" height="30"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_coxa_CROPED_OSSO" x="355" y="445" width="48" height="18"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_coxa_CROPED_DECEPADO" x="510" y="423" width="70" height="32"/>
+ <SubTexture name="001_reduzidos_sizeOK/0001_coxa_CROPED" x="708" y="423" width="54" height="30"/>
+ <SubTexture name="chamas/lab4" x="566" y="158" width="59" height="62"/>
+ <SubTexture name="chamas/lab3" x="359" y="278" width="52" height="56"/>
+ <SubTexture name="chamas/lab2" x="566" y="222" width="47" height="62"/>
+ <SubTexture name="chamas/lab1" x="783" y="339" width="47" height="46"/>
+ <SubTexture name="chamas/FIRE6" x="627" y="194" width="222" height="71"/>
+ <SubTexture name="chamas/FIRE5" x="0" y="64" width="239" height="83"/>
+ <SubTexture name="chamas/FIRE4" x="636" y="0" width="237" height="100"/>
+ <SubTexture name="chamas/FIRE3" x="99" y="491" width="241" height="80"/>
+ <SubTexture name="chamas/FIRE2" x="636" y="102" width="227" height="90"/>
+ <SubTexture name="chamas/FIRE1" x="0" y="225" width="209" height="74"/>
+ <SubTexture name="chamas/fg4_sem_fum" x="364" y="194" width="69" height="47"/>
+</TextureAtlas>

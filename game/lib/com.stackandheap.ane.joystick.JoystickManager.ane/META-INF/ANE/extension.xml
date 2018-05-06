@@ -1,0 +1,16 @@
+<extension xmlns="http://ns.adobe.com/air/extension/3.1">
+    <id>com.stackandheap.ane.joystick.JoystickManager</id>
+    <versionNumber>0.2</versionNumber>
+    <platforms>
+        <platform name="Windows-x86">
+            <applicationDeployment>
+                <nativeLibrary>JoystickManager.dll</nativeLibrary>
+                <initializer>JoystickManagerInitializer</initializer>
+                <finalizer>JoystickManagerFinalizer</finalizer>
+            </applicationDeployment>
+        </platform>
+		<platform name="default"> 
+            <applicationDeployment/> 
+        </platform>
+    </platforms>
+</extension>
